@@ -15,6 +15,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".PetAlertActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".MyPetActivity" />
+        <activity android:name=".SavePetActivity" />
+        <activity android:name=".FoundLostActivity" />
+        <activity android:name=".TestActivity" />
     </application>
 
 </manifest>
